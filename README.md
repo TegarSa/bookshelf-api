@@ -2,7 +2,7 @@
 # 📚 Bookshelf API (Hapi.js)
 ---
 
-Bookshelf API is a simple backend project built using Hapi.js that allows users to manage book data — including adding, viewing, updating, and deleting books.  
+Bookshelf API is a simple backend project built using **Hapi.js** that allows users to manage book data — including adding, viewing, updating, and deleting books.  
 This project was created as a learning exercise for building a RESTful API with Node.js and Hapi.js.
 
 ---
